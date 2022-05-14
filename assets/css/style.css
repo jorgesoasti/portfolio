@@ -1048,3 +1048,10 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/*--------------------------------------------------------------
+# Google reCAPTCHA
+--------------------------------------------------------------*/
+.grecaptcha-badge {
+  bottom: 90px !important;
+}
